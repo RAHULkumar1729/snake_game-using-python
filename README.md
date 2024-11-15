@@ -1,7 +1,7 @@
 # snake_game using python
 
 #control
-up->up arrow key
+up->up arrow key, 
 down->down arrow key
 
 #OUTPUT
